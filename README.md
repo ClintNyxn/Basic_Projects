@@ -1,2 +1,3 @@
-# Basic_Projects
-Hi,  I'm keeping all my 'beginner's coding projects'. You'll find various scripts and projects here. Feel free to explore and give feedback.
+# Hi
+I'm learning from cs50 python. 
+these are basically notes of sorts.
